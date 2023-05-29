@@ -1,0 +1,100 @@
+1. NASA Software Catalog - https://sti.nasa.gov/
+2. National Science Foundation (NSF) - https://www.nsf.gov/code.json
+3. U.S. Department of Energy - https://www.energy.gov/sites/default/files/2023-04/code-04-03-2023.json
+4. NASA Open Source Catalog - https://raw.githubusercontent.com/nasa/Open-Source-Catalog/master/code.json
+5. High Spectral Resolution High Cadence Imaging X-ray Microcalorimeters for Solar Physics - https://catalog.data.gov/dataset/high-spectral-resolution-high-cadence-imaging-x-ray-microcalorimeters-for-solar-physics-ph
+6. Superconducting Resonator Spectrometer for Millimeter and Submillimeter Wave Astrophysics - https://catalog.data.gov/dataset/superconducting-resonator-spectrometer-for-millimeter-and-submillimeter-wave-astrophysics-
+7. Exoplanet Direct Imaging Project - https://catalog.data.gov/dataset/exoplanet-direct-imaging-project
+8. Kepler Data - https://catalog.data.gov/dataset/kepler
+9. NASA Data Sites - https://www.nasa.gov/data_sites.json
+10. NASA Open Data - Aerospace category - https://data.nasa.gov/browse?category=Aerospace
+11. NASA Open Data - Applied Science category - https://data.nasa.gov/browse?category=Applied+Science
+12. NASA Open Data - Raw Data category - https://data.nasa.gov/browse?category=Raw+Data
+13. NASA Open Data - Space Science category - https://data.nasa.gov/browse?category=Space+Science
+14. NASA Meteorite Landings - https://data.nasa.gov/Space-Science/Meteorite-Landings/ak9y-cwf9
+15. Candida albicans response to spaceflight (NASA STS) - https://data.nasa.gov/dataset/Candida-albicans-response-to-spaceflight-NASA-STS-/amtu-jdmm
+16. NASA Facilities - https://data.nasa.gov/Management-Operations/NASA-Facilities/scmi-np9r
+17. WISE NEA/COMET Discovery Statistics - https://data.nasa.gov/Space-Science/WISE-NEA-COMET-DISCOVERY-STATISTICS/6fim-4xk6
+18. Ames Quantum Chemistry - https://data.nasa.gov/Aerospace/Ames-Quantum-Chemistry/wbx2-w7qa
+19. C-MAPSS Jet Engine Simulated Data - https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6
+20. Time-Based Flow Management Public SWIM - https://data.nasa.gov/Aerospace/Time-Based-Flow-Management-Public-SWIM/mbzg-tb4a
+21. Meteorites (Cp-T) - https://data.nasa.gov/Space-Science/Meteorites-Cp-T-/ezvd-bw5r
+22. Deorbit, Descent, and Landing Flight 1 (DDL F1) - https://data.nasa.gov/Aerospace/Deorbit-Descent-and-Landing-Flight-1-DDL-F1-/vicw-ivgd
+23. AI4MARS: A Dataset for Terrain-Aware Autonomous Driving on Mars - https://data.nasa.gov/Space-Science/AI4MARS-A-Dataset-for-Terrain-Aware-Autonomous-Dri/cykx-2qix
+24. DELIVER Psychoacoustic Test WGA I Database - https://data.nasa.gov/Aerospace/DELIVER-Psychoacoustic-Test-WGA-I-Database/2hg7-cc8n
+25. GRC 8x6 SWT Raised Floor Calibration Data - https://data.nasa.gov/Aerospace/GRC-8x6-SWT-Raised-Floor-Calibration-Data/9jwp-f4sa
+26. JGR Space Physics 2020 Ver1 - https://data.nasa.gov/Space-Science/JGR-Space_Physics_2020_Ver1/dy4t-hzjk
+27. NASA Earthdata - https://earthdata.nasa.gov/
+28. NASA Exoplanet Archive - https://exoplanetarchive.ipac.caltech.edu/
+29. NASA Planetary Data System - https://pds.nasa.gov/
+30. NASA Astrophysics Data System (ADS) - https://ui.adsabs.harvard.edu/
+31. European Space Agency (ESA) Open Access - https://www.cosmos.esa.int/documents/29201/1770951/ASA-Open-Access-Policy.pdf
+32. SERDP09 MDOE Chevron Nozzle Noise Database - https://data.nasa.gov/Aerospace/SERDP09-MDOE-chevron-nozzle-noise-database/kpxj-46ib
+33. Code NASA - https://code.nasa.gov
+34. PDS NASA - https://pds.nasa.gov
+35. Earthdata NASA - https://www.earthdata.nasa.gov
+36. NASA Open Data - https://www.nasa.gov/open/data.html
+37. STI NASA - https://sti.nasa.gov
+38. NTRS NASA - https://ntrs.nasa.gov
+39. Data NASA (JSON) - https://data.nasa.gov/data.json
+40. NRLMRY - https://www.nrlmry.navy.mil/TC.html
+41. JTWC - https://www.metoc.navy.mil/jtwc/jtwc.html
+42. SpaceX Capsules - https://api.spacexdata.com/v3/capsules
+43. SpaceX Launches - https://api.spacexdata.com/v3/launches
+44. SpaceX Cores - https://api.spacexdata.com/v3/cores
+45. SpaceX Dragons - https://api.spacexdata.com/v3/dragons
+46. SpaceX History - https://api.spacexdata.com/v3/history
+47. SpaceX Info - https://api.spacexdata.com/v3/info
+48. SpaceX Launchpads - https://api.spacexdata.com/v3/launchpads
+49. SpaceX Missions - https://api.spacexdata.com/v3/missions
+50. SpaceX Payloads - https://api.spacexdata.com/v3/payloads
+51. SpaceX Rockets - https://api.spacexdata.com/v3/rockets
+52. SpaceX Roadster - https://api.spacexdata.com/v3/roadster
+53. SpaceX Ships - https://api.spacexdata.com/v3/ships
+54. Data NASA (JSON) - https://data.nasa.gov/data.json
+55. USDA PDP - https://apps.ams.usda.gov/pdp
+56. LEAP UFSC - https://leap.ufsc.br/bd/
+57. NASA Exoplanet Archive (https://exoplanetarchive.ipac.caltech.edu/)
+58. Sloan Digital Sky Survey (SDSS) (https://www.sdss.org/)
+59. CERN Open Data (http://opendata.cern.ch/)
+60. Quantum Open Source Foundation (https://www.qosf.org/)
+61. Quantum Information Science and Technology (QIST) Data Portal (https://www.nist.gov/programs-projects/quantum-information-science-and-technology-data-portal)
+62. NASA Open Data (https://data.nasa.gov/data.json)
+63. NASA Earth Observing System Data and Information System (EOSDIS) (https://lpdaac.usgs.gov/)
+64. National Snow and Ice Data Center (NSIDC) (https://nsidc.org/data/explore-data)
+65. ATLAS Experiment Open Data (https://atlas.cern/Resources/Opendata)
+66. Data.world (https://data.world/)
+67. Quantum Computing Playground (https://quantum-computing.ibm.com/)
+68. Quantum Computing Playground (https://qiskit.org/textbook/ch-states/introduction.html)
+69. Quantum Computing Playground (https://quantumai.google/cirq)
+70. Quantum Computing Playground (https://www.microsoft.com/en-us/quantum/development-kit)
+71. Quantum Computing Playground (https://quantum-computing.blackquantum.ai/)
+72. Quantum Information Science and Technology (QIST) Data Portal (https://www.nist.gov/programs-projects/quantum-information-science-and-technology-data-portal)
+73. Quantum Open Source Foundation (https://www.qosf.org/)
+74. Open Data at CERN - https://opendata.cern.ch/
+75. ATLAS Open Data - https://atlas.cern/Resources/Opendata
+76. Data.World - https://data.world/datasets/physics
+77. Bath University Library - Finding Physics Data - https://library.bath.ac.uk/research-data/finding-data/physics
+78. Massasoit Library - Physics Datasets - https://library.massasoit.edu/physics/datasets
+79. EnergyFlow Network Datasets - https://energyflow.network/docs/datasets/
+80. Wikipedia - Quantum Machine Learning - https://en.wikipedia.org/wiki/Quantum_machine_learning
+81. PythonProgramming.net - Introduction to Self-Driving Autonomous Cars with Carla and Python - https://pythonprogramming.net/introduction-self-driving-autonomous-cars-carla-python/
+82. Arxiv.org - Research Papers on Deep Learning - https://arxiv.org/pdf/2102.09603v1.pdf
+83. Towards Data Science - 7 Best Research Papers to Read to Get Started with Deep Learning Projects - https://towardsdatascience.com/7-best-research-papers-to-read-to-get-started-with-deep-learning-projects-59e11f7b9c32
+84. Data.gov Catalog - https://catalog.data.gov/organization/
+85. Data.World - https://data.world/
+86. NIST Quantum Information Science and Technology Data Portal - https://www.nist.gov/programs-projects/quantum-information-science-and-technology-data-portal
+87. Exoplanet Archive - https://exoplanetarchive.ipac.caltech.edu/
+88. Sloan Digital Sky Survey (SDSS) - https://www.sdss.org/
+89. European Space Agency (ESA) Science Data Archive - https://www.cosmos.esa.int/web/esdc
+90. Particle Data Group - http://pdg.lbl.gov/
+91. Hubble Space Telescope Archive - https://hla.stsci.edu/
+92. Chandra X-ray Observatory Data Archive - https://cxc.harvard.edu/cda/
+93. Fermi Gamma-ray Space Telescope Science Center - https://fermi.gsfc.nasa.gov/
+94. LIGO Open Science Center - https://www.gw-openscience.org/
+95. PhysioNet - Physiological Signal and Data Repository - https://physionet.org/
+96. International Space Science Institute (ISSI) - https://www.issibern.ch/
+97. CERN Open Data Portal - https://opendata.cern.ch/
+98. NASA Exoplanet Exploration - https://exoplanets.nasa.gov/
+99. Nuclear Data Services (NDL) - https://www.nndc.bnl.gov/ndc/
+100. Google Dataset Search - https://datasetsearch.research.google.com/
