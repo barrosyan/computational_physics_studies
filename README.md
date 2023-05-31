@@ -18,8 +18,9 @@ To use the code in this repository, you'll need to have Python 3 installed on yo
    ```bash
    git clone https://github.com/barrosyan/computational_physics_studies.git
 
-2.Navigate to the project directory:
-cd computational_physics_studies
+2. Navigate to the project directory:
+   ```bash
+   cd computational_physics_studies
 
 3. Create a virtual environment (optional but recommended):
 python3 -m venv venv
